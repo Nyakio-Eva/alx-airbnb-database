@@ -1,0 +1,1 @@
+- The database design checks out all normalization forms
